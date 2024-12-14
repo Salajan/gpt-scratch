@@ -1,1 +1,9 @@
+# Editor-specific files
+.vscode/     # Visual Studio Code
+
+# macOS specific files
+.DS_Store
+
+# Logs and temporary files
+*.log
 
